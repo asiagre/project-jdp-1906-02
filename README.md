@@ -1,8 +1,14 @@
-TEAM PROJECT
-This is a backend of internet shop, written in Java with SpringBoot. It was written as a team project, is not finished. To see all options download, install, and go to http://localhost:8080/swagger-ui.html
+# TEAM PROJECT
 
-Installation
-Download this repo to your computer (click green button "Clone or download"). Open directory in your IDLE (for example IntelliJ). Then create database (you have credentials in resources/application.properties). Then click green arrow in right top.
+This is a backend of internet shop, written in Java with SpringBoot. It had been written as a team work. In this application
+you can make many operation, for example adding users, adding products, making orders. To see all options go to 
+https://nameless-plains-55137.herokuapp.com/swagger-ui.html
 
-License
-MIT
+## Installation
+
+Download this repo to your computer (click green button "Clone or download"). Open 
+directory in your IDLE (for example IntelliJ).
+Then click green arrow in right top.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
