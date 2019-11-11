@@ -7,8 +7,7 @@ https://nameless-plains-55137.herokuapp.com/swagger-ui.html
 ## Installation
 
 Download this repo to your computer (click green button "Clone or download"). Open 
-directory in your IDLE (for example IntelliJ).
-Then click green arrow in right top.
+directory in your IDLE (for example IntelliJ) and run program.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
